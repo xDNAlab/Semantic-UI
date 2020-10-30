@@ -81,7 +81,7 @@
     "merge-stream": "^1.0.0",
     "mkdirp": "^0.5.1",
     "require-dot-file": "^0.4.0",
-    "replace-ext": "^1.0.0",
+    "replace-ext": "^2.0.0",
     "run-sequence": "^2.2.1",
     "wrench-sui": "^0.0.3",
     "yamljs": "^0.3.0"
